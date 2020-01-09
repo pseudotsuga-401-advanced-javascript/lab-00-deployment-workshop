@@ -5,12 +5,12 @@
 ### Author: Conor McCue
 
 ### Links and Resources
-* [submission PR](http://xyz.com)
+* [submission PR](https://github.com/pseudotsuga-401-advanced-javascript/lab-00-deployment-workshop/pull/1)
 * [travis](https://travis-ci.com/pseudotsuga-401-advanced-javascript/lab-00-deployment-workshop)
-* [back-end](https://conormccue-lab-00.herokuapp.com/) (when applicable)
+* [back-end](https://conormccue-lab-00.herokuapp.com/)
 
 #### Documentation
-* [api docs](https://conormccue-lab-00.herokuapp.com/docs) (JSDocs servers)
+* [JSdocs](https://conormccue-lab-00.herokuapp.com/docs)
 
 ### Setup
 #### `.env` requirements
