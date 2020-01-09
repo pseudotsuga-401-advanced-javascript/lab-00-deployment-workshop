@@ -1,12 +1,12 @@
-# LAB - 
+# LAB - 00
 
-## Project Name
+## Deployment Workshop
 
-### Author: Student/Group Name
+### Author: Conor McCue
 
 ### Links and Resources
 * [submission PR](http://xyz.com)
-* [travis](http://xyz.com)
+* [travis](https://travis-ci.com/pseudotsuga-401-advanced-javascript/lab-00-deployment-workshop)
 * [back-end](http://xyz.com) (when applicable)
 * [front-end](http://xyz.com) (when applicable)
 
