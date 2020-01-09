@@ -13,11 +13,11 @@
 * [api docs](https://conormccue-lab-00.herokuapp.com/docs) (JSDocs servers)
 
 ### Setup
-#### `.env` requirements (where applicable)
+#### `.env` requirements
 * `PORT` - Port Number
 
-#### How to initialize/run your server app (where applicable)
-* e.g. `npm start`
+#### How to initialize/run your server app 
+* `npm start`
   
 #### Tests
 * `npm test`
